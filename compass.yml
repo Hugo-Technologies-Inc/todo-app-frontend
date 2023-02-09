@@ -1,0 +1,11 @@
+name: todo-app-frontend
+id: 'ari:cloud:compass:28e7f1fb-398d-4664-b757-8d8e29e8070e:component/f182e00e-5dbf-4f4d-bd2e-961a63d9e278/0542f70c-8cf1-432e-b459-57db3383ec51'
+description: 'Working app of [this tutorial](https://www.youtube.com/watch?v=P3R-8jj3S7U&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=3)'
+ownerId: 'ari:cloud:teams::team/02b8fa2c-d4ab-464c-b4d9-6525c5982fee'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/Hugo-Technologies-Inc/todo-app-frontend'
+relationships: {}
